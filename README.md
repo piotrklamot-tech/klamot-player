@@ -1,3 +1,5 @@
+[![Klamot Player](assets/klamot-player-banner.png)](https://www.klamot.com.pl/)
+
 # Klamot Player
 
 **Klamot Player** to bezpłatny odtwarzacz IPTV przeznaczony do korzystania z własnych źródeł użytkownika. Aplikacja jest dostępna w kilku wariantach dla urządzeń z Android TV, Android Mobile, Amazon Fire TV / Fire OS oraz dla środowiska emulatora.
